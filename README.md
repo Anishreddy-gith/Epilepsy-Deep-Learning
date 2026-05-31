@@ -97,7 +97,7 @@ Physiological Data Streams
 
 | Name                    | Role        |
 | ----------------------- | ----------- |
-| **Boppidi Anish Reddy** | Team Member |
+| **Boppidi Anish Reddy** | Team Lead |
 | **Avanika Kademgari**   | Team Member |
 | **Alekhya Nelabhotla**  | Team Member |
 
